@@ -1,0 +1,29 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "MEAN stack with angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajakumar2823/MEAN.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "angular",
+    "application"
+  ],
+  "author": "raja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajakumar2823/MEAN/issues"
+  },
+  "homepage": "https://github.com/rajakumar2823/MEAN#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
+  }
+}
